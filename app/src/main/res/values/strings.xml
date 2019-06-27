@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="header">Rock Paper Scissors</string>
+    <string name="newGame">New Game</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="you">YOU : </string>
+    <string name="com">COMPUTER : </string>
+    <string name="zero">0</string>
+    <string name="empty"></string>
+</resources>
